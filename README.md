@@ -22,8 +22,15 @@
 2. Green
 3. Blue
 >
+### Task list
 - [ ] a task list item. 
 - [ ] list syntax required. 
 - [ ] normal **formatting**, @mentions, #1234 refs
 - [ ] incomplete 
 - [x] completed 
+>
+
+```
+function test(){
+console.log("Notice the blank line before this function?")
+}
