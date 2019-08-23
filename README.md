@@ -21,3 +21,9 @@
 1. Red 
 2. Green
 3. Blue
+>
+- [ ] a task list item. 
+- [ ] list syntax required. 
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete 
+- [x] completed 
