@@ -30,7 +30,7 @@
 - [x] completed 
 >
 
-```
+```java
 function test(){
 console.log("Notice the blank line before this function?")
 }
