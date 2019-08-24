@@ -90,5 +90,12 @@ print "Hello Moon"
 print ("Hello World!") 
 print ("Hello Moon!") 
 ```
+>
+```
+$ git status 
+$ git remote -v
+
+$ ps awx | grep mongo 
+```
 
 
