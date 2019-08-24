@@ -75,5 +75,10 @@ ___
 
 >
 :fireworks:
-:smile_cat:
+:smile_cat: 
+>
 :watermelon:
+>
+Here's an inline link to [Google](http://www.google.com/). 
+
+
