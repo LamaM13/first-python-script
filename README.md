@@ -63,9 +63,9 @@ $$
 **bold**
 *italic*
 _italic_
-<
-<
-<
+>
+>
+>
 Rule #1 
 ---
 Rule #2 
