@@ -57,3 +57,10 @@ $$
 | First Header | Second Header | 
 |..............|...............|
 | Content Cell | Content Cell  |
+
+>
+>
+**bold**
+*italic*
+_italic_
+
