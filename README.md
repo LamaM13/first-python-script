@@ -97,5 +97,8 @@ $ git remote -v
 
 $ ps awx | grep mongo 
 ```
-
+>
+```
+SELECT * FROM Customers WHERE Country='Sweden'; 
+```
 
