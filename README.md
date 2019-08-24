@@ -73,3 +73,7 @@ Rule #2
 Rule #3 
 ___
 
+>
+:fireworks:
+:smile_cat:
+:watermelon:
