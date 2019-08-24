@@ -101,7 +101,7 @@ SELECT * FROM Customers WHERE Country='Sweden';
 ```sql 
 SELECT * FROM Customers WHERE Country='Sweden'; 
 ```
->\
+>
 First Header | Second Header 
 -----------  |  -----------
 Content from cell 1 | Content from cell 2
