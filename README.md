@@ -101,4 +101,8 @@ $ ps awx | grep mongo
 ```
 SELECT * FROM Customers WHERE Country='Sweden'; 
 ```
+>
+```sql 
+SELECT * FROM Customers WHERE Country='Sweden'; 
+```
 
